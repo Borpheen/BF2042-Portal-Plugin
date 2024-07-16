@@ -1,0 +1,10 @@
+{
+    "id": "externalSiteIntegration",
+    "name": "External Site Integration",
+    "version": "1.0.0",
+    "description": "A plugin to integrate an external site with the BF2042 Portal Rules Editor",
+    "author": "YourName",
+    "homepage": "https://yourhomepage.com",
+    "loadAsModule": false,
+    "main": "main.js"
+}
